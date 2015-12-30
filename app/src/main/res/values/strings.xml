@@ -3,13 +3,13 @@
     <string name="app_name">Alexandria</string>
 
     <!-- Menu Items -->
-    <string name="books">List of Books</string>
-    <string name="scan">Scan/Add a Book</string>
+    <string name="books" translatable="false">List of Books</string>
+    <string name="scan" translatable="false">Scan/Add a Book</string>
     <string name="about">About this App</string>
 
-    <string name="navigation_drawer_open" >Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
     <string name="scan_button">Scan</string>
     <string name="input_hint">Insert ISBN-13. Digits only.</string>
     <string name="book_cover">Bookcover</string>
@@ -30,7 +30,7 @@
     The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program. </string>
     <string name="title_activity_camera">CameraActivity</string>
 
-    <string name="ok_status">Ok.</string>
+    <string name="ok_status" translatable="false">Ok.</string>
     <!-- Error messages -->
     <string name="no_network">The network is not available to fetch books data.</string>
     <string name="server_down">No books information available. The server is not returning data.</string>
